@@ -30,5 +30,17 @@ This is a MERN web application of a blog. It has a home page with minimised card
 * Mocha
 * Super Test
 
+### Run Server
+
+* /root
+* npm run start
+
+### Run Client
+
+* cd /client
+* npm install
+* npm run start
+
+
 
 
